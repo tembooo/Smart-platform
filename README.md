@@ -31,7 +31,7 @@ we want to integriate AI with platform to increase the safty
 ---
 
 ## Wednesday, 20 August 2025
-- Mounted **ASUS ROG Strix RTX 4070 Ti GPU**.  
+- Mounted **ASUS ROG Strix RTX 5070 Ti GPU**.  
 - Connected DisplayPort cable to monitor for initial testing.  
 - Verified all power and cooling connections.  
 - Performed first boot → BIOS successfully recognized CPU, GPU, RAM, and storage.  
