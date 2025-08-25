@@ -1,3 +1,8 @@
+
+https://github.com/user-attachments/assets/0c6daf9b-133c-443c-865e-dee059413a22
+
+
+
 # Smart-platform
 we want to integriate AI with platform to increase the safty 
 # Work Log – Premekon Smart Service Platform Project  
@@ -19,6 +24,8 @@ we want to integriate AI with platform to increase the safty
 - Mounted **Intel Core i9-14900KS CPU** onto the motherboard socket.  
 - Applied thermal paste and prepared **ARCTIC Liquid Freezer III 360 A-RGB water cooling** system.  
 - Installed radiator and fans into the case.
+
+![PC Assembly Step 1](pic1.jpg)
 
 ---
 
@@ -46,6 +53,7 @@ we want to integriate AI with platform to increase the safty
 - Installed **case fans** and verified ARGB control.  
 - Performed stability test at BIOS level.
 
+
 ---
 
 ## Friday, 22 August 2025
@@ -53,7 +61,7 @@ we want to integriate AI with platform to increase the safty
 - Conducted final cable management and safety checks.  
 - Confirmed PSU power efficiency and cooling system performance.  
 - Hardware build finalized and ready for software installation.
-
+![PC Assembly Step 2](pic2.jpg)
 ---
 
 ## Monday, 25 August 2025
