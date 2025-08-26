@@ -55,6 +55,7 @@ https://github.com/user-attachments/assets/0c6daf9b-133c-443c-865e-dee059413a22
 - Performed stability test at BIOS level.
 
 
+![PC Assembly Step 1](Pic4.png)
 ---
 
 ## Friday, 22 August 2025
