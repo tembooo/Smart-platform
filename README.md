@@ -6,6 +6,10 @@
 we want to integriate AI with platform to increase the safty 
 # Work Log – Premekon Smart Service Platform Project  
 © Premekon Oy – Confidential  
+For investigating the structure : 
+- website: https://sharecad.org/
+- 2D: https://github.com/tembooo/Smart-platform/blob/main/Cad2.dwg
+- 3D: https://github.com/tembooo/Smart-platform/blob/main/Cad1.stp
 
 ---
 
