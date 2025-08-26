@@ -1,7 +1,6 @@
 
-https://github.com/user-attachments/assets/0c6daf9b-133c-443c-865e-dee059413a22
 
-
+![PC Assembly Step 1](Pic3.png)
 
 # Smart-platform
 we want to integriate AI with platform to increase the safty 
@@ -15,6 +14,7 @@ we want to integriate AI with platform to increase the safty
 - Introduction to Premekon premises and project objectives.  
 - Reviewed project documentation: *Smart Service Platform* concept, safety regulations, and planned AI-based features.  
 - Initial preparation for workstation build and component inventory check.
+https://github.com/user-attachments/assets/0c6daf9b-133c-443c-865e-dee059413a22
 
 ---
 
