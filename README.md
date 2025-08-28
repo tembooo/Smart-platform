@@ -84,26 +84,27 @@ https://github.com/user-attachments/assets/0c6daf9b-133c-443c-865e-dee059413a22
 - System fully operational and development environment prepared for AI and machine vision tasks.  
 
 ---
-
+![PC Assembly Step 2](Pic6.jpg)
 ## Tuesday, 26 August 2025
 - Researched **depth and position estimation** methods for cameras (stereo vs. monocular cues, homography, and PnP).  
 - Worked on **camera mapping**: planned calibration steps (checkerboard, intrinsic/extrinsic parameters) and region layout for the site.  
 - Drafted approach to define **safe vs. dangerous zones** in the scene for worker detection/alerts.  
-
+![PC Assembly Step 2](Pic5.jpg)
 ## Wednesday, 27 August 2025
+
 - Tested the **camera with my laptop**; confirmed the **motherboard LAN port** doesn’t work.  
   - Decided to order a **PCIe Ethernet (LAN) card** as a practical fix.  
   - ASUS can accept a motherboard return, but it would take longer.  
   - Similar issue reported by another user (see: [ASUS Forum](https://rog-forum.asus.com/t5/intel-700-600-series/prime-z790z-p-install-no-lan-found/td-p/1046937)).  
 - Prepared the **PoE switch** for the cameras.  
 - Crimped and tested **Cat6 cables** using **T568B** wiring—ready to deploy.  
-
+![PC Assembly Step 2](Pic7.jpg)
 ### Items to order / finalize
 - **PCIe LAN card**  
 - **M.2 drive**  
 - **Measuring tools** (tape/laser distance meter)  
 - **Region definitions**: finalize the **safe** and **danger** areas on the site map  
-
+![PC Assembly Step 2](Pic8.jpg)
 I’ll send this procurement list to **Toni** today.
 
 
