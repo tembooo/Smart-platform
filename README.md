@@ -144,8 +144,10 @@ I’ll send this procurement list to **Toni** today.
 ## Tuesday, 2 September 2025
 - Structure of the platform was completed; received ordered tools.  
 - Held meeting with Nick about the platform progress.  
-- Prepared LAN setup and adjusted camera range/IPS settings.  
-- Ran simulations for camera height and focal length.  
+- Prepared LAN setup and adjusted camera range/IPS settings.
+![Simulation of the angle](Pic10.png)
+- Ran simulations for camera height and focal length.
+![Simulation of the angle](Pic11.png)
 ### Challenges
 - Need to identify and select a **suitable cable** for transferring electricity between the adapter and the switch.  
 
