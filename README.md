@@ -132,7 +132,8 @@ I’ll send this procurement list to **Toni** today.
 - Meeting with Professor Lasse regarding optimal camera placement.  
 - Discussed two options for RGB cameras:  
   - **Single camera with homography.**  
-  - **Stereo camera model.**  
+  - **Stereo camera model.**
+
 - Considered the use of an Intel RealSense RGB-D depth camera:  
   - Advantage: depth sensing capability.  
   - Limitations: fixed focal length and narrower FoV, which may not fully cover the site.  
@@ -140,7 +141,7 @@ I’ll send this procurement list to **Toni** today.
   - Links for camera options: https://fi.rsdelivers.com/browse/ppe-safety-test-it/computing-peripherals/photography-drones/depth-cameras  
 - Professor suggested using **NVIDIA Omniverse** to create a live 3D site map.  
 - Researched best possible placement of cameras for maximum coverage.  
-![Simulation of the angle](Pic9.jpg)
+![Simulation of the angle](Pic9.png)
 ## Tuesday, 2 September 2025
 - Structure of the platform was completed; received ordered tools.  
 - Held meeting with Nick about the platform progress.  
