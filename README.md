@@ -140,14 +140,14 @@ I’ll send this procurement list to **Toni** today.
   - Links for camera options: https://fi.rsdelivers.com/browse/ppe-safety-test-it/computing-peripherals/photography-drones/depth-cameras  
 - Professor suggested using **NVIDIA Omniverse** to create a live 3D site map.  
 - Researched best possible placement of cameras for maximum coverage.  
-![Simulation of the angle](Pic9.png)
+![Simulation of the angle](Pic9.jpg)
 ## Tuesday, 2 September 2025
 - Structure of the platform was completed; received ordered tools.  
 - Held meeting with Nick about the platform progress.  
 - Prepared LAN setup and adjusted camera range/IPS settings.
-![Simulation of the angle](Pic10.png)
+![Simulation of the angle](Pic10.jpg)
 - Ran simulations for camera height and focal length.
-![Simulation of the angle](Pic11.png)
+![Simulation of the angle](Pic11.jpg)
 ### Challenges
 - Need to identify and select a **suitable cable** for transferring electricity between the adapter and the switch.  
 
