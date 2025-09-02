@@ -112,3 +112,43 @@ I’ll send this procurement list to **Toni** today.
 - Successfully completed **hardware assembly** of the AI workstation.  
 - Installed **Windows 11 Pro** and configured full software stack for AI, machine learning, and productivity.  
 - Workstation is now ready for upcoming tasks: developing and testing the *Smart Service Platform* AI models.  
+## Thursday, 28 August 2025
+- Activated Windows and installed the JVSG application.  
+- Tested the cables and cameras.  
+- Connected and activated cameras with the laptop; adjusted camera features.  
+- Held a progress meeting with the company and Aki.  
+- Reported the LAN port issue on the motherboard.  
+- Researched PCIe LAN cards, memory options, and necessary tools.  
+- Toni Kontele placed the material orders.  
+- Downloaded required drivers and software from the internet.  
+
+## Friday, 29 August 2025
+- Received the LAN PCIe card and external NVMe SSD; installed both.  
+- Downloaded and installed the LAN card driver.  
+- Prepared LAN cables using the T568B standard and tested them with a multimeter.  
+- Transferred equipment to the basement; configured two cameras and adjusted features.  
+
+## Monday, 1 September 2025
+- Meeting with Professor Lasse regarding optimal camera placement.  
+- Discussed two options for RGB cameras:  
+  - **Single camera with homography.**  
+  - **Stereo camera model.**  
+- Considered the use of an Intel RealSense RGB-D depth camera:  
+  - Advantage: depth sensing capability.  
+  - Limitations: fixed focal length and narrower FoV, which may not fully cover the site.  
+  - Model referenced: *Intel RealSense D457, Min Depth 0.06 m, Max Range 6 m (RS Stock No. 265-0903, Part No. 82635DSD457).*  
+  - Links for camera options: https://fi.rsdelivers.com/browse/ppe-safety-test-it/computing-peripherals/photography-drones/depth-cameras  
+- Professor suggested using **NVIDIA Omniverse** to create a live 3D site map.  
+- Researched best possible placement of cameras for maximum coverage.  
+![Simulation of the angle](Pic9.png)
+## Tuesday, 2 September 2025
+- Structure of the platform was completed; received ordered tools.  
+- Held meeting with Nick about the platform progress.  
+- Prepared LAN setup and adjusted camera range/IPS settings.  
+- Ran simulations for camera height and focal length.  
+![PC Assembly Step 1](Pic3.png)
+### Challenges
+- Need to identify and select a **suitable cable** for transferring electricity between the adapter and the switch.  
+
+
+
