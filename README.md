@@ -146,7 +146,6 @@ I’ll send this procurement list to **Toni** today.
 - Held meeting with Nick about the platform progress.  
 - Prepared LAN setup and adjusted camera range/IPS settings.  
 - Ran simulations for camera height and focal length.  
-![PC Assembly Step 1](Pic3.png)
 ### Challenges
 - Need to identify and select a **suitable cable** for transferring electricity between the adapter and the switch.  
 
