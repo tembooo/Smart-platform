@@ -155,3 +155,24 @@ I’ll send this procurement list to **Toni** today.
 ![Simulation of the angle](Pic14.jpg)
 ![Simulation of the angle](Pic15.jpg)
 ![Simulation of the angle](Pic16.jpg)
+
+
+
+## Wednesday, 3 September 2025
+- Studied studio camera design methods for depth estimation and measurement.  
+- Prepared and organized cables for the switch box.
+![Simulation of the angle](Pic13.jpg)
+- Selected a suitable enclosure for housing the network switch.  
+- Installed and set up Visual Studio Code for software development tasks.  
+
+## Thursday, 4 September 2025
+- Implemented real-time video capture without delay from the RTSP stream.  
+- Integrated MediaPipe Hands module for real-time hand landmark detection.  
+- Added an interactive ROI (Region of Interest) with multiple draggable points.  
+- Developed a dynamic red/green status light displayed in full-screen on the second monitor.
+
+- Enhanced ROI visualization:  
+  - Border color changes dynamically (green when safe, red when a hand enters the danger zone).  
+  - ROI interior filled with a faint highlight matching the border color.  
+- Verified the workflow by combining live stream, hand tracking, and safety zone visualization in real-time.
+
