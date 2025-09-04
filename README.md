@@ -154,5 +154,4 @@ I’ll send this procurement list to **Toni** today.
 ![Simulation of the angle](Pic13.jpg)
 ![Simulation of the angle](Pic14.jpg)
 ![Simulation of the angle](Pic15.jpg)
-
-
+![Simulation of the angle](Pic16.jpg)
