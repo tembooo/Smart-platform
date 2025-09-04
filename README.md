@@ -151,6 +151,8 @@ I’ll send this procurement list to **Toni** today.
 ![Simulation of the angle](Pic11.jpg)
 ### Challenges
 - Need to identify and select a **suitable cable** for transferring electricity between the adapter and the switch.  
-
+![Simulation of the angle](Pic13.jpg)
+![Simulation of the angle](Pic14.jpg)
+![Simulation of the angle](Pic15.jpg)
 
 
